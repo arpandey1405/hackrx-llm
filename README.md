@@ -19,6 +19,6 @@ It uses **vector embeddings + LLM** to retrieve relevant document passages and g
 ## ⚙️ Installation
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/arpandey1405/hackrx-llm.git
 cd llm-query-retrieval
 pip install -r requirements.txt
